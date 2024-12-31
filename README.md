@@ -1,4 +1,4 @@
-# Hackintosh WiFi Debug Fix for Gigabyte X670E Aorus Master
+# Hackintosh WiFi Debug Fix for Gigabyte X670E Aorus Master(rev1.0)
 
 ## Overview
 This repository contains a debug fix for WiFi connectivity issues on Hackintosh systems using the Gigabyte X670E Aorus Master motherboard with the Intel AX610 WiFi card. 
@@ -7,7 +7,7 @@ The fix addresses common connectivity problems and stability issues encountered 
 ## Hardware Specifications
 - **Motherboard:** Gigabyte X670E Aorus Master
 - **WiFi Card:** Intel Corporation Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 
-- **BIOS Version:** Latest BIOS (F7b or newer recommended)
+- **BIOS Version:** Latest BIOS (33g or newer recommended)
 - **Operating System:** macOS onoma 14.7.2
 - **OpenCore Version:** 1.0.3
 
